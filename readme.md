@@ -7,6 +7,7 @@
 
 
 
-  - This project was quite easy made it in 2 hour. All thanks to sir Hitesh who gave us this project and taught us so well.
+- Learned about CSS flexbox.
+- learned about box model concept.
 - learned about HTML &  CSS.
 - Also while making this projecti did a lot of research which was very helpful.
